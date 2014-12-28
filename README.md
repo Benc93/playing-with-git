@@ -1,4 +1,4 @@
-##Playing with Git  
+##Pre-course exercise: Playing with Git  
 
 ####Summary of Activity  
     
